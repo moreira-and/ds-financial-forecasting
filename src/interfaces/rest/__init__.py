@@ -1,0 +1,2 @@
+"""REST adapters placeholder package."""
+
